@@ -15,7 +15,7 @@ jobs:
     strategy:
       matrix:
         branch:
-          - openwrt-22.03
+          - 24.10.0
         arch:
           - arm_cortex-a7
 
